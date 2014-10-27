@@ -1,0 +1,22 @@
+{
+  "name": "ng-aws-sdk",
+  "version": "1.0.0",
+  "description": "Serving static content",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doodeck/ng-aws-sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doodeck/ng-aws-sdk/issues"
+  },
+  "homepage": "https://github.com/doodeck/ng-aws-sdk",
+  "dependencies": {
+    "express": "^4.10.0"
+  }
+}
