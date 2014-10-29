@@ -6,7 +6,7 @@ var app,
     server;
 
 express = require('express');
-PORT = 9002;
+PORT = 9000;
 
 app = express();
 http = require('http');
